@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">College Scheduler</string>
+    <string name="app_title">College Scheduler</string>
+    <string name="app_subtitle">Jadwal kuliah, tugas, dan ujian dalam satu tempat</string>
+    <string name="badge_total">15 gambar</string>
+    <string name="toast_gambar">Gambar ke-%1$d dipilih</string>
+</resources>
