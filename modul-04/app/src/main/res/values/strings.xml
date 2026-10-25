@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">College Scheduler</string>
+
+    <!-- Halaman utama -->
+    <string name="main_title">College Scheduler</string>
+    <string name="main_subtitle">Kelola kelas, tugas, ujian, dan pekerjaan</string>
+    <string name="desc_image">Gambar galeri</string>
+    <string name="label_item">Gambar %1$d</string>
+    <string name="toast_item">Kamu memilih gambar %1$d</string>
+
+    <!-- Menu -->
+    <string name="menu_second">Halaman Kedua</string>
+    <string name="menu_about">Tentang Aplikasi</string>
+    <string name="toast_about">College Scheduler v1.0 - Aplikasi jadwal akademik</string>
+
+    <!-- Halaman kedua -->
+    <string name="second_title">Halaman Kedua</string>
+    <string name="second_desc">College Scheduler membantu mahasiswa mencatat dan memantau jadwal akademik dalam satu aplikasi.</string>
+    <string name="second_features">Fitur utama:\n• Pengelolaan Kelas\n• Pengelolaan Tugas, Ujian, dan Pekerjaan\n• Pengurutan, filter, dan penanda selesai\n• Halaman Ringkasan</string>
+    <string name="btn_back">Kembali</string>
+</resources>
